@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvotv_modding_wiki=self.webpackChunkvotv_modding_wiki||[]).push([[973],{4061:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
