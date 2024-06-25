@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvotv_modding_wiki=self.webpackChunkvotv_modding_wiki||[]).push([[151],{350:t=>{t.exports=JSON.parse('[{"label":"Getting started","permalink":"/docs/tags/getting-started","count":4},{"label":"Tutorial","permalink":"/docs/tags/tutorial","count":7},{"label":"VoidMod","permalink":"/docs/tags/void-mod","count":6}]')}}]);
